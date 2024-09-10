@@ -68,4 +68,9 @@ This dataset contains various biometric and lifestyle features related to indivi
     - *Type*: Categorical (Never, Sometimes, Frequently, Always)
 
 16. **🚗 MTRANS (Transportation method)**: 
-    - *Description*: Describes the individual's primary m
+    - *Description*: Describes the individual's primary mode of transportation.
+    - *Type*: Categorical (Walking, Bike, Public Transport, Car)
+
+17. **⚖️ NObeyesdad (Obesity level)**: 
+    - *Description*: The target variable that represents the obesity level of the individual.
+    - *Type*: Categorical (Insufficient_Weight, Normal_Weight, Overweight_Level_1, Overweight_Level_2, Obesity_Type_1, Obesity_Type_2, Obesity_Type_3)
